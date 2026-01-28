@@ -9,3 +9,12 @@ Regulatory & compliance professionals
 Pharmacovigilance professionals
 Quality Assurance professionals
 Developers (secondary audience)
+
+Core Features include
+Aggregates regulatory updates from African regulators
+
+Allows filtering by country and topic
+
+Sends alerts for urgent safety notices
+
+Maintains a searchable archive
